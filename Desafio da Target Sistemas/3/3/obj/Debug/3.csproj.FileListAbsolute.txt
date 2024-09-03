@@ -1,0 +1,7 @@
+C:\Users\0031432312028\source\repos\3\3\bin\Debug\3.exe.config
+C:\Users\0031432312028\source\repos\3\3\bin\Debug\3.exe
+C:\Users\0031432312028\source\repos\3\3\bin\Debug\3.pdb
+C:\Users\0031432312028\source\repos\3\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\0031432312028\source\repos\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\0031432312028\source\repos\3\3\obj\Debug\3.exe
+C:\Users\0031432312028\source\repos\3\3\obj\Debug\3.pdb
